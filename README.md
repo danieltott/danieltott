@@ -10,7 +10,7 @@ I've been developing websites since '99, and have been a full-time independent d
 
 ## Here's where you can find me:
 
-- [dtott.com](https://www.dtott.com) - my personal site where I try to get some thoughts down when I can
+- [danott.dev](https://danott.dev) - my personal site where I try to get some thoughts down when I can
 - [Virtual Coffee](https://virtualcoffee.io) - Virtual Coffee meets twice a week for informal "coffee" style hangouts
 - [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast) - once a week we sit down with Virtual Coffee members to hear their own stories as developers
 - [@danieltott](https://twitter.com/danieltott) on Twitter
